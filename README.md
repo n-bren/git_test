@@ -1,2 +1,1 @@
-# git_test
-The Odin Project Test
+This is Nialls first git project!
